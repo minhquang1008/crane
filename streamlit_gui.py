@@ -61,7 +61,7 @@ border-color: #1f4456;
 border-radius: 0px;
 }
 [class="block-container st-emotion-cache-1y4p8pa ea3mdgi2"] {
-background-color: #FFFFFF;
+background-color: #ece7da;
 padding-top: 5px;
 margin-top: 0px;
 opacity: 0.9;
