@@ -60,7 +60,7 @@ border-style: double;
 border-color: #1f4456;
 border-radius: 0px;
 }
-[class="block-container st-emotion-cache-1y4p8pa ea3mdgi5"] {
+[class="block-container st-emotion-cache-gh2jqd ea3mdgi5"] {
 background-color: #ece7da;
 padding-top: 5px;
 margin-top: 0px;
